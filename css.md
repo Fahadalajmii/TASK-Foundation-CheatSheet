@@ -27,7 +27,7 @@ In CSS, there are 3 types of **SELECTORS**
 ### Classes
 
 ```css
-.class {
+.container {
   /* This will change the styling for every tag 
     in the linked html file that implemented 
     the class container. 

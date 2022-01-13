@@ -27,7 +27,7 @@ For example, the **style** attribute can be added to the following tag as follow
 
 HTML has 2 main tags
 
-1. `<title>` is a tag that we add meta data to it, like linking the CSS, or adding a title for a website. Anything inside this tag, shall not be rendered in the web page directly
+1. `<head>` is a tag that we add meta data to it, like linking the CSS, or adding a title for a website. Anything inside this tag, shall not be rendered in the web page directly
 2. `<body>` is a tag that we add the content of the html page that will be rendered directly to the web page
 
 ## Comments 💬

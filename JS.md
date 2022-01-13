@@ -193,7 +193,7 @@ Even numbers will return true on the following statement
 ```js
 const x = ???
 // if you want to check if x is even, you do the following condition
-if( %2===0 ){
+if( x %2===0 ){
   // will only be executed if x was event
 }
 ```
@@ -290,8 +290,8 @@ array[array.length - 1];
 **push and pop**
 
 ```js
-array.push; // adds a new element
-array.pop; // removes the last element
+array.push(); // adds a new element
+array.pop(); // removes the last element
 //
 ```
 
@@ -358,7 +358,7 @@ array.reduce((prev, current) => prev + current); // returns the sum of the array
 
 # Objects
 
-The structure of object is a pair of `{name:fahad, age:25, weight:92}`
+The structure of object is a pair of `{name:"fahad", age:25, weight:92}`
 
 ```js
 // To create an object
